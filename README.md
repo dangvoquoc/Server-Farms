@@ -9,3 +9,8 @@
 <img width="667" height="518" alt="image" src="https://github.com/user-attachments/assets/78b83b5f-ec35-4d69-be36-e9d54f4e822a" />
 <img width="646" height="376" alt="image" src="https://github.com/user-attachments/assets/1306787b-93c1-4386-9416-2756d72e583f" />
 
+<p>we need a thinner laptop support carrying at data centers and server farms</p>
+<p align="center">
+  <img width="628" height="228" alt="image" src="https://github.com/user-attachments/assets/2bbbc41f-1548-41e3-851f-cf4f063d2d5e" />  
+</p>
+
